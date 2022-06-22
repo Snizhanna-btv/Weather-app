@@ -42,10 +42,7 @@ li {
   line-height: 1;
 }
 
-#days {
-  font-size: 27px;
-  position: relative;
-  top: 35px;
+.github-link {
   text-align: center;
 }
 
@@ -60,4 +57,11 @@ li {
 #days {
   display: block inline;
   margin: 0 auto;
+}
+
+#days {
+  font-size: 27px;
+  position: relative;
+  top: 35px;
+  text-align: center;
 }
